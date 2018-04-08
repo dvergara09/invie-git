@@ -1,2 +1,2 @@
 # invie-git
-curso git platzi
+Curso de git platzi - appsco
